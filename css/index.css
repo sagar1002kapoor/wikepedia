@@ -1,0 +1,53 @@
+
+header {
+    height: 100px;
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 5px 2px black;
+    color: #56212590;
+    border-bottom: 5px solid #33333387;
+    background-color: #12332154;
+    padding: 2% 0;
+}
+
+header img {
+    margin: 1% 2%;
+}
+header span span{
+    font-size: 100px;
+}
+
+#container{
+    background: #00000014;
+    margin-left:10% ;
+    border-left:2px solid #60408835 ;
+    border-right:2px solid #60408835 ;
+     padding:0 2% ;
+}
+dl {
+    margin-top: 2%;
+    padding: 2%;
+}
+
+dl dt img {
+    width: 200px;
+    height: 200px;
+    border: 5px solid #22222254;
+    margin-right: 2%;
+}
+
+dl dd {
+    height: 200px;
+    vertical-align: top;
+    padding: 2%;
+}
+
+#hello{
+    border: 1px;
+}
+.zzz{
+    margin-left: 2px;
+}
+
